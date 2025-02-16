@@ -1,24 +1,24 @@
 # Тестовое задание для стажёра Android-направления (зимняя волна 2025)
 
 ### Экран треков из API
-- Перовоначальные просмотр чарта [https://api.deezer.com/chart](https://api.deezer.com/chart)
-- Поиск через API [https://api.deezer.com/search?q={query](https://api.deezer.com/search?q={query})
-- При отсутвии запроса поиска возвращает чарты
-- Переход на прослущивание трека
+- Первоначальный просмотр чарта [https://api.deezer.com/chart](https://api.deezer.com/chart)
+- Поиск через API [https://api.deezer.com/search?q={query}](https://api.deezer.com/search?q={query})
+- При отсутствии запроса поиска возвращает чарты
+- Переход на прослушивание трека
 - UI: названия, автор, обложка
 
 ### Экран скачанных треков
-- Список локально скачаных треков
-- Поиск по автору или назанию трека
+- Список локально скачанных треков
+- Поиск по автору или названию трека
 - UI: названия, автор, обложка
 
 ### Экран воспроизведения трека
 
-- Воспроизводить музыку в фоновом режиме, отображение уведомление с контролами
+- Воспроизводить музыку в фоновом режиме, отображение уведомления с контролами
 - Сохранение трека
 - UI: названия, автор, обложка, прогресс воспроизведения, пауза, воспроизведение, следующий трек, предыдущий трек
 
-### Описание Реализация
+### Описание реализации
 
 - Kotlin
 - Coroutines
@@ -28,3 +28,10 @@
 - Exoplayer
 - Hilt
 - MVVM
+
+### Скриншоты
+
+![screen](https://github.com/ClutchShot/avito-intern-music-app/blob/master/images/Screenshot_20250216_234146.png?raw=true)
+![screen](https://github.com/ClutchShot/avito-intern-music-app/blob/master/images/Screenshot_20250216_234238.png?raw=true)
+![screen](https://github.com/ClutchShot/avito-intern-music-app/blob/master/images/Screenshot_20250216_234325.png?raw=true)
+![screen](https://github.com/ClutchShot/avito-intern-music-app/blob/master/images/Screenshot_20250216_234407.png?raw=true)
