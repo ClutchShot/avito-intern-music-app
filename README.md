@@ -31,7 +31,5 @@
 
 ### Скриншоты
 
-![screen](https://github.com/ClutchShot/avito-intern-music-app/blob/master/images/Screenshot_20250216_234146.png?raw=true)
-![screen](https://github.com/ClutchShot/avito-intern-music-app/blob/master/images/Screenshot_20250216_234238.png?raw=true)
-![screen](https://github.com/ClutchShot/avito-intern-music-app/blob/master/images/Screenshot_20250216_234325.png?raw=true)
-![screen](https://github.com/ClutchShot/avito-intern-music-app/blob/master/images/Screenshot_20250216_234407.png?raw=true)
+![screen](https://github.com/ClutchShot/avito-intern-music-app/blob/master/images/Screenshots.png?raw=true)
+
