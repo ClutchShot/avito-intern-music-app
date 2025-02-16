@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Avito intern music app</string>
+    <string name="seach_label">Artists or Songs</string>
+    <string name="cd_account">Account</string>
+
+    <string name="cd_forward10">Forward 10 seconds</string>
+    <string name="cd_pause">Pause</string>
+    <string name="cd_play">Play</string>
+    <string name="cd_replay10">Replay 10 seconds</string>
+    <string name="cd_skip_next">Skip next</string>
+    <string name="cd_skip_previous">Skip previous</string>
+    <string name="download_channel_name">0</string>
+    <string name="download_channel_description">download track</string>
+    <string name="download">download</string>
+
+
+</resources>
